@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LunaLyons
+👋 Hi, I’m @LunaLyons
 - 👀 I’m interested in learning things
 - 🌱 I’m currently learning things
 - ⚡ Fun fact: I like learning things (though you probably already figured this out)
